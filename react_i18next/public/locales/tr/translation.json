@@ -1,0 +1,4 @@
+{
+    "welcome": "{{user.name}} {{user.surname}} Yarının dünyasına hoşgeldiniz",
+    "homepage": "Anasayfa"
+}

@@ -1,0 +1,4 @@
+{
+    "welcome": "Welcome to the world of tomorrow! {{user.surname}} {{user.name}}",
+    "homepage": "Home Page"
+}
