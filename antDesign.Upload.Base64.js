@@ -29,4 +29,5 @@ beforeUpload: UploadProps['beforeUpload'] = (file) => {
     })
 
     return false;
+	
 }
